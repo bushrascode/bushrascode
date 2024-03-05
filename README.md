@@ -15,3 +15,4 @@ Currently Working On:
 ### Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,aws,azure,cypress,java,dart,flutter,django,docker,kubernetes,express,flutter,heroku,jenkins,jest,mongodb,postgres,netlify,nodejs,postman,ruby,terraform,)](https://skillicons.dev)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
