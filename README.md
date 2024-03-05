@@ -13,6 +13,5 @@ Currently Working On:
 - ⭐ I have successfully completed the Information Technology Specialist (ITS) certification in Java (INF-304)
 
 ### Languages and Tools 
-html5 css3 javascript typescript react reactnative vue reactnative ruby java
-cypress jest rspec
-bash bootstrap docker express git mongodb nodejs postgresql postman
+https://img.shields.io/w3c-validation/:parser
+
