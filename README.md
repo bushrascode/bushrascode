@@ -9,6 +9,10 @@
 Currently Working On:
 
 - 🏆 Progressing up the ranks on [Codewars](https://www.codewars.com/users/BushraFatimaBF)
-- 🖥 Completing the #30DaysOfCode challenge in both Java and Javascript 
+- 🖥 Completing the #30DaysOfCode challenge in both Java and Javascript
+- ⭐ I have successfully completed the Information Technology Specialist (ITS) certification in Java (INF-304)
 
-
+### Languages and Tools 
+html5 css3 javascript typescript react reactnative vue reactnative ruby java
+cypress jest rspec
+bash bootstrap docker express git mongodb nodejs postgresql postman
