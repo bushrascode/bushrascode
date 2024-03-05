@@ -13,5 +13,5 @@ Currently Working On:
 - ⭐ I have successfully completed the Information Technology Specialist (ITS) certification in Java (INF-304)
 
 ### Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,aws,azure,cypress,java,dart,flutter,django,docker,kubernetes,express,flutter,heroku,jenkins,jest,mongodb,postgres,netlify,nodejs,postman,ruby,terraform,)](https://skillicons.dev)
 
