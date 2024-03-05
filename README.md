@@ -8,6 +8,7 @@
 
 Currently Working On:
 
-🏆 Progressing up the ranks on [Codewars](https://www.codewars.com/users/BushraFatimaBF)
+- 🏆 Progressing up the ranks on [Codewars](https://www.codewars.com/users/BushraFatimaBF)
+- 🖥 Completing the #30DaysOfCode challenge in both Java and Javascript 
 
 
