@@ -13,5 +13,5 @@ Currently Working On:
 - ⭐ I have successfully completed the Information Technology Specialist (ITS) certification in Java (INF-304)
 
 ### Languages and Tools 
-https://img.shields.io/w3c-validation/:parser
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
