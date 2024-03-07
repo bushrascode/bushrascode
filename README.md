@@ -8,7 +8,7 @@
 
 Currently Working On:
 
-- 🏆 Progressing up the ranks on [Codewars](https://www.codewars.com/users/BushraFatimaBF)
+- 🏆 Progressing up the ranks on [Codewars](https://www.codewars.com/users/BushraFatimaBF) and improving my problem solving skills [here](https://github.com/aspiringsoftwareprogrammer/technical-interview-practice)
 - 🖥 Completing the [#100DaysOfCode](https://github.com/aspiringsoftwareprogrammer/100DaysOfCode) challenge in both Java and Javascript
 - ⭐ I have successfully completed the Information Technology Specialist (ITS) certification in Java (INF-304)
 
