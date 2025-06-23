@@ -11,7 +11,7 @@ Currently Working On:
 - 🏆 Just passed my AWS Cloud Practitioner Exam!
 
 ### Languages and Tools 
-#### ⚡DevOps
+#### 🐳 DevOps
 [![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,azure,terraform,docker,java,jenkins,mongodb,harness,)](https://skillicons.dev)
-#### ⚡Web Development
+#### 🌐 Web Development
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,)](https://skillicons.dev)
