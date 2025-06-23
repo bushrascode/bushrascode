@@ -8,11 +8,9 @@
 
 Currently Working On:
 
-- 🏆 Progressing up the ranks on [Codewars](https://www.codewars.com/users/BushraFatimaBF) and improving my problem solving skills [here](https://github.com/aspiringsoftwareprogrammer/technical-interview-practice)
-- 🖥 Completing the [#100DaysOfCode](https://github.com/aspiringsoftwareprogrammer/100DaysOfCode) challenge in both Java and Javascript
-- ⭐ I have successfully completed the Information Technology Specialist (ITS) certification in Java (INF-304)
+- 🏆 I successfuly passed my AWS Cloud Practitioner Exam!
 
 ### Languages and Tools 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,aws,azure,cypress,java,dart,flutter,django,docker,kubernetes,express,heroku,jenkins,jest,mongodb,postgres,netlify,nodejs,postman,ruby,terraform,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,azure,terraform,docker,java,cloudbees jenkins, mongodb)](https://skillicons.dev)
 
 
